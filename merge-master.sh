@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this script just checks out master, pulls latest and tries to merge latest master in your current branch
+# this script just checks out master, pulls latest master and tries to merge latest master in your current branch
 # USAGE: bash merge-master
 
 echo "Checking out master"
